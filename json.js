@@ -1,22 +1,12 @@
 myFunction([
 {
-"display": "HTML Tutorial",
+"display": "Belum Tersedia",
 "url": "MoreApp1",
 "gambar": "kakek-nenek.jpg"
 },
 {
-"display": "CSS Tutorial",
+"display": "Belum Tersedia",
 "url": "EMoreApp2",
-"gambar": "kakek-nenek.jpg"
-},
-{
-"display": "JavaScript Tutorial",
-"url": "MoreApp3",
-"gambar": "kakek-nenek.jpg"
-},
-{
-"display": "SQL Tutorial",
-"url": "MoreApp4",
 "gambar": "kakek-nenek.jpg"
 }
 ])
